@@ -1,0 +1,14 @@
+/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Coda, Textmate, Git
+
+/* TEAM */
+
+Gesign and Front-end - Katarzyna Urbańska
+
+/* utworzono 20.08.2017 */
